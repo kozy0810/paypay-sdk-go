@@ -16,8 +16,6 @@ import (
 	"time"
 )
 
-// reference url : https://dev.to/plutov/writing-rest-api-client-in-go-3fkg
-
 type Client struct {
 	apiKey     string
 	apiSecret  string
